@@ -1,5 +1,6 @@
 #include "Pixel.h"
 #include "Utilities.h"
+#include <cstdio>
 
 using namespace ofxPixelPusher;
 

@@ -40,7 +40,7 @@ namespace ofxPixelPusher {
 		}
 		else {
 			outputColor.mSaturation = 0.0;
-			outputColor.mHue = NAN;
+			outputColor.mHue = 0.f;
 			return outputColor;
 		}
 		if (inputColor.mRed >= max)
