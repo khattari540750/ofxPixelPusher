@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DB31A7F-045F-49BC-8BBE-2A8D41FA0503</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example-colorChase</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13538F65EB634D81942C8817B9C92F364BBFE975</key>
+		<string>github.com:morphogencc/ofxPixelPusher.git</string>
+		<key>A218559DF4D8EDB4919249176C0AE00710689196</key>
+		<string>https://github.com/morphogencc/ofxAsio</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example-colorChase/example-colorChase.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13538F65EB634D81942C8817B9C92F364BBFE975</key>
+		<string>../../..</string>
+		<key>A218559DF4D8EDB4919249176C0AE00710689196</key>
+		<string>../../../../ofxAsio</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:morphogencc/ofxPixelPusher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13538F65EB634D81942C8817B9C92F364BBFE975</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A218559DF4D8EDB4919249176C0AE00710689196</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxAsio</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13538F65EB634D81942C8817B9C92F364BBFE975</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxPixelPusher</string>
+		</dict>
+	</array>
+</dict>
+</plist>

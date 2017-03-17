@@ -14,6 +14,7 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
+    ofSetWindowTitle(ofToString(ofGetFrameRate(), 2));
 	for (auto pusher : mDiscoveryService->getPushers()) {
 		for (auto strip : pusher->getStrips()) {
 			while (mIndex < strip->getNumberOfPixels()) {
